@@ -1,6 +1,6 @@
 <van-tabs>
   <van-tab title="标签 1">
-    <van-button bind:click='routerPage' type="info">信息按钮</van-button>
+    <van-button bind:click='routerPage' type="info">跳转分包</van-button>
     <text>如果看不到多点几下应该就出现</text>
   </van-tab>
   <van-tab title="标签 2">内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2内容 2</van-tab>
