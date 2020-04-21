@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "测试",
+  "usingComponents": {
+    "van-tab": "@vant/weapp/tab/index",
+    "van-tabs": "@vant/weapp/tabs/index",
+    "van-button": "@vant/weapp/button/index"
+  }
+}
